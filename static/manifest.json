@@ -1,0 +1,11 @@
+{
+
+   "author": "Shafi Haque",
+   "background_color": "#ffffff",
+   "description": "Altkeep notes app",
+   "display": "standalone",
+   "name": "Altkeep",
+   "orientation": "portrait",
+   "start_url": "/",
+   "theme_color": "#ffffff"
+}
