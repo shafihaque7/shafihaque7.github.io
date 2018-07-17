@@ -9,4 +9,4 @@ https://github.com/shafihaque7/laracappo
 
 # Optimized for mobile (Progressive Web App) 
 
-![main](https://github.com/shafihaque7/shafihaque7.github.io/blob/master/demo2.gif)
+![main](https://github.com/shafihaque7/shafihaque7.github.io/blob/master/demoMobile.gif)
