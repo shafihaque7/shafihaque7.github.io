@@ -1,6 +1,9 @@
+# Altkeep
+https://altkeep.me
+
 ![main](https://github.com/shafihaque7/shafihaque7.github.io/blob/master/demo1.gif)
 
-# Altkeep notes web app
+# Notes web app
 - Notes application with emphasis on speed and searchibility 
 - VueJS front end with Axios to make api calls 
 
